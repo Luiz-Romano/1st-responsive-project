@@ -7,6 +7,7 @@
 <br>
   <p>- HTML</p>
   <p>- CSS</p>
-  
+<br> 
 Desktop: <img src="https://github.com/Luiz-Romano/easy-shopping/blob/main/assets/desktop.png?raw=true" />
+<br>
 Mobile: <img src="https://github.com/Luiz-Romano/easy-shopping/blob/main/assets/mobile.png?raw=true" />
